@@ -77,7 +77,7 @@ L'application permet à l'utilisateur d'entrer les caractéristiques d'une trans
 
 1. Cloner le dépôt :
 
-git clone <URL_DU_REPO>
+git clone https://github.com/badaraaliouguindo/fraud-detection-app
 cd fraud-detection-app
 
 2. Installer les dépendances
